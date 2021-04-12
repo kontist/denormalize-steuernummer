@@ -1,6 +1,6 @@
 {
   "name": "denormalize-steuernummer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "De-normalize a national format of German tax number (Steuernummer)",
   "main": "dist/index.js",
   "scripts": {
