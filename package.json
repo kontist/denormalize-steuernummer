@@ -4,13 +4,15 @@
   "description": "De-normalize a national format of German tax number (Steuernummer)",
   "main": "dist/index.js",
   "scripts": {
-    "lint" : "tslint -p tsconfig.json",
+    "lint": "tslint -p tsconfig.json",
     "test": "ts-mocha src/*.spec.ts",
     "build": "tsc",
-    "prepare" : "yarn build",
+    "prepare": "yarn build",
     "prepublishOnly": "yarn test && yarn lint"
   },
-  "files": ["dist/**/*"],
+  "files": [
+    "dist/**/*"
+  ],
   "repository": "kontist/denormalize-steuernummer",
   "author": "Kontist GmbH (kontist.com)",
   "license": "MIT",
