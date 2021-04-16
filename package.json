@@ -2,6 +2,20 @@
   "name": "denormalize-steuernummer",
   "version": "1.0.1",
   "description": "De-normalize a national format of German tax number (Steuernummer)",
+  "keywords": [
+    "canonical",
+    "deutschland",
+    "elster",
+    "german",
+    "germany",
+    "normalisation",
+    "normalization",
+    "normalize",
+    "steuernummer",
+    "tax",
+    "tax number",
+    "taxes"
+  ],
   "main": "dist/index.js",
   "scripts": {
     "lint": "tslint -p tsconfig.json",
