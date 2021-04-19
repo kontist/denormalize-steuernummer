@@ -1,6 +1,6 @@
 {
   "name": "denormalize-steuernummer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "De-normalize a national format of German tax number (Steuernummer)",
   "keywords": [
     "canonical",
