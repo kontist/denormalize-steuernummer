@@ -1,6 +1,6 @@
 {
   "name": "denormalize-steuernummer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "De-normalize a national format of German tax number (Steuernummer)",
   "keywords": [
     "canonical",
@@ -28,7 +28,7 @@
     "dist/**/*",
     "dist/index.d.ts"
   ],
-  "types":"dist/index.d.ts",
+  "types": "dist/index.d.ts",
   "repository": "kontist/denormalize-steuernummer",
   "author": "Kontist GmbH (kontist.com)",
   "license": "MIT",
